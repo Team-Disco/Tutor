@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/howardmatari.lwc-kw6sdeld",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve nNJhsGrc66eZtFKIlOMB --open"
+  }
+}
