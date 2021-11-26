@@ -10,7 +10,7 @@ h3 {
     color: gray;
 }
 
-body{
+template{
     background-color: black;
 
 }
@@ -31,6 +31,7 @@ body{
 
 .info {
     padding: 3rem;
+    background-color: black;
 }
 
 .info img {
