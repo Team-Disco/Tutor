@@ -6,14 +6,11 @@ h1 {
 }
 
 h3 {
-    margin: 2rem;
+    margin: 3rem;
     color: gray;
 }
 
-template{
-    background-color: black;
 
-}
 .container {
     padding: 3rem;
     text-align: center;
@@ -31,7 +28,6 @@ template{
 
 .info {
     padding: 3rem;
-    background-color: black;
 }
 
 .info img {
